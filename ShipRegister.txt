@@ -1,0 +1,25 @@
+N1701-D
+Dreadnought
+Enterprise
+Blue
+10.0.1.15:5000
+id874356543546
+Destroyer
+Integrity
+Green
+10.0.1.16:5000
+id22042
+Minesweeper
+HMS Dreadnought
+Red
+10.0.1.17:5000
+id2444
+Submarine
+HMS Vanguard
+Yellow
+10.0.1.18:5000
+id26834
+Patrol Boat
+Vengance
+Purple
+10.0.1.19:5000
